@@ -4,7 +4,7 @@ import akka.actor.AbstractActor;
 
 /**
  *
- * 分发actor
+ * 分发actor11
  * Created by lichuanshun on 2017/9/7.
  */
 public class DispatchActor extends AbstractActor {
